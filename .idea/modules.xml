@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary Trees/Binary Trees.iml" filepath="$PROJECT_DIR$/Binary Trees/Binary Trees.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Greedy/Greedy.iml" filepath="$PROJECT_DIR$/LinkedList/Greedy/Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Queues/Queues.iml" filepath="$PROJECT_DIR$/LinkedList/Queues/Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/LinkedList/Stacks/Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stars.iml" filepath="$PROJECT_DIR$/Stars.iml" />
+    </modules>
+  </component>
+</project>
